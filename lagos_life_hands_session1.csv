@@ -1,0 +1,16 @@
+hand,time,player_cards,dealer_cards,actions,bet,result,payout,chips_after,wallet_after,tonight_total,rounds_tonight,notes
+0,Wed 11 1:07 AM,,,,,,,5000000,534019702,-15247100,106,"Baseline before logging (106 earlier rounds not logged). VIP table, 7% tax on winnings."
+1,Wed 11 1:10 AM,2 J J,A A,hit,100000,bust,0,4900000,534019702,-15347100,107,"Started hard 12 vs dealer A; hit (model: hit) and drew J. Dealer had 12, never needed to draw."
+2,,,,,200000?,win (not captured),,,,-15161100,108,"Missed by recorder v1. Net +186,000 = a ₦200k win minus 7% tax, so most likely a DOUBLE that won."
+3,2026-11-11T00:14:28.322Z,6 2 2 Q,8 4 8,,100000,"A push · dealer 20 · ₦100,000 back",100000,5086000,534019702,-15161100,109,push
+4,,,,,100000,win (not captured),,5179000,,-15075100,110,"Missed by recorder v1. Net +93,000 = ₦100k win minus 7% tax."
+5,2026-11-11T00:15:02.321Z,9 Q,2 A 8,,100000,The house wins · dealer 21 · ₦0 back,0,5079000,534019702,-15168100,111,lose
+6,2026-11-11T00:16:51.693Z,10 3,6 K Q,stand,100000,"You won · dealer bust · ₦193,000 back / High-roller tax −₦7,000 (7%)",193000,5172000,534019702,-15075100,112,win
+7,2026-11-11T00:17:19.892Z,K 6,Q 3 Q,stand,100000,"You won · dealer bust · ₦193,000 back / High-roller tax −₦7,000 (7%)",193000,5265000,534019702,-14982100,113,win
+8,2026-11-11T00:17:39.092Z,5 4 6 10,Q 2,hit x2,100000,The house wins · dealer 12 · ₦0 back,0,5165000,534019702,-15082100,114,bust
+9,2026-11-11T00:17:52.592Z,8 8 7,7 K,hit,100000,The house wins · dealer 17 · ₦0 back,0,5065000,534019702,-15182100,115,bust
+10,2026-11-11T00:18:07.892Z,8 7 4,8 2 2 J,hit,100000,"You won · dealer bust · ₦193,000 back / High-roller tax −₦7,000 (7%)",193000,5158000,534019702,-15089100,116,win
+11,2026-11-11T00:18:20.792Z,6 6,6 10 Q,stand,100000,"You won · dealer bust · ₦193,000 back / High-roller tax −₦7,000 (7%)",193000,5251000,534019702,-14996100,117,win
+12,2026-11-11T00:18:33.392Z,J 6 9,A 7,hit,100000,The house wins · dealer 18 · ₦0 back,0,5151000,534019702,-15096100,118,bust
+13,2026-11-11T00:18:47.491Z,5 6 K,6 5 5 7,double,200000,"You won · dealer bust · ₦386,000 back / High-roller tax −₦14,000 (7%)",386000,5337000,534019702,-14910100,119,win
+14,2026-11-11T00:18:59.492Z,J 3 8,7 K,hit,100000,"You won · dealer 17 · ₦193,000 back / High-roller tax −₦7,000 (7%)",193000,5430000,534019702,-14817100,120,win

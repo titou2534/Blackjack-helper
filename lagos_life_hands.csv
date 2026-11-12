@@ -1,0 +1,102 @@
+hand,time,player_cards,dealer_cards,actions,bet,result,payout,chips_after,wallet_after,tonight_total,rounds_tonight,notes
+0,Wed 11 1:22 AM,,,,,,,5430000,534019702,-14817100,120,"NEW BASELINE (session 2 starts here). Previous session: +430,000 over hands 1-14 (rounds 107-120)."
+1,2026-11-11T00:25:25Z,K 10,3 9 Q,stand,100000,"You won · dealer bust · ₦193,000 back / High-roller tax −₦7,000 (7%)",193000,5523000,534019702,-14724100,121,win
+2,2026-11-11T00:25:29Z,10 Q,K A,stand,100000,The dealer has blackjack · ₦0 back,0,5423000,534019702,-14824100,122,lose
+3,2026-11-11T00:26:03Z,8 A,3 5 7 4,stand,100000,"A push · dealer 19 · ₦100,000 back",100000,5423000,534019702,-14824100,123,push
+4,2026-11-11T00:26:20Z,7 5 7,9 5 6,hit,100000,The house wins · dealer 20 · ₦0 back,0,5323000,534019702,-14924100,124,lose
+5,2026-11-11T00:26:58Z,2 A 2 A 9,5 10 Q,hit x3,100000,"You won · dealer bust · ₦193,000 back / High-roller tax −₦7,000 (7%)",193000,5416000,534019702,-14831100,125,win
+6,2026-11-11T00:27:15Z,5 J,4 J Q,stand,100000,"You won · dealer bust · ₦193,000 back / High-roller tax −₦7,000 (7%)",193000,5509000,534019702,-14738100,126,win
+7,2026-11-11T00:27:30Z,6 K A,A 6,hit,100000,"A push · dealer 17 · ₦100,000 back",100000,5509000,534019702,-14738100,127,push
+8,2026-11-11T00:27:39Z,9 8,K 2 9,stand,100000,The house wins · dealer 21 · ₦0 back,0,5409000,534019702,-14838100,128,lose
+9,2026-11-11T00:27:48Z,8 A,J 5 7,stand,100000,"You won · dealer bust · ₦193,000 back / High-roller tax −₦7,000 (7%)",193000,5502000,534019702,-14745100,129,win
+10,2026-11-11T00:27:59Z,A 8,K J,stand,100000,The house wins · dealer 20 · ₦0 back,0,5402000,534019702,-14845100,130,lose
+11,2026-11-11T00:28:07Z,7 J,9 8,stand,100000,"A push · dealer 17 · ₦100,000 back",100000,5402000,534019702,-14845100,131,push
+12,2026-11-11T00:28:26Z,10 6,3 2 2 8 2,stand,100000,The house wins · dealer 17 · ₦0 back,0,5302000,534019702,-14945100,132,lose
+13,2026-11-11T00:28:41Z,Q 10,10 2 7,stand,100000,"You won · dealer 19 · ₦193,000 back / High-roller tax −₦7,000 (7%)",193000,5395000,534019702,-14852100,133,win
+14,2026-11-11T00:28:58Z,3 A J,5 4 3 8,hit,100000,The house wins · dealer 20 · ₦0 back,0,5295000,534019702,-14952100,134,lose
+15,2026-11-11T00:29:12Z,6 Q,10 10,stand,100000,The house wins · dealer 20 · ₦0 back,0,5195000,534019702,-15052100,135,lose
+16,2026-11-11T00:29:22Z,10 5,5 2 9 2,stand,100000,The house wins · dealer 18 · ₦0 back,0,5095000,534019702,-15152100,136,lose
+17,2026-11-11T00:29:33Z,10 Q,8 10,stand,100000,"You won · dealer 18 · ₦193,000 back / High-roller tax −₦7,000 (7%)",193000,5188000,534019702,-15059100,137,win
+18,2026-11-11T00:29:44Z,10 5,6 5 A 9,stand,100000,The house wins · dealer 21 · ₦0 back,0,5088000,534019702,-15159100,138,lose
+19,2026-11-11T00:30:19Z,A 2 3 A 8 6,A A J 2 K,hit x4,100000,"You won · dealer bust · ₦193,000 back / High-roller tax −₦7,000 (7%)",193000,5181000,534019702,-15066100,139,win
+20,2026-11-11T00:30:37Z,9 7,5 7 4 10,stand,100000,"You won · dealer bust · ₦193,000 back / High-roller tax −₦7,000 (7%)",193000,5274000,534019702,-14973100,140,win
+21,2026-11-11T00:30:56Z,3 3 5 K,9 6 4,hit x2,100000,"You won · dealer 19 · ₦193,000 back / High-roller tax −₦7,000 (7%)",193000,5367000,534019702,-14880100,141,win
+22,2026-11-11T00:31:10Z,4 6 5,6 5 10,double,200000,The house wins · dealer 21 · ₦0 back,0,5167000,534019702,-15080100,142,lose
+23,2026-11-11T00:31:19Z,J 2 Q,7 7,hit,100000,The house wins · dealer 14 · ₦0 back,0,5067000,534019702,-15180100,143,bust
+24,2026-11-11T00:31:28Z,8 7 8,A 9,hit,100000,The house wins · dealer 20 · ₦0 back,0,4967000,534019702,-15280100,144,bust
+25,2026-11-11T00:31:39Z,K K,A A 9,stand,100000,The house wins · dealer 21 · ₦0 back,0,4867000,534019702,-15380100,145,lose
+26,2026-11-11T00:32:27Z,2 5 7 | 2 3 J,5 4 5 4,"split, hit, split, hit",200000,The house wins · dealer 18 · ₦0 back,0,4667000,534019702,-15580100,146,lose | lose (split)
+27,2026-11-11T00:32:45Z,8 Q,8 Q,stand,100000,"A push · dealer 18 · ₦100,000 back",100000,4667000,534019702,-15580100,147,push
+28,2026-11-11T00:32:54Z,J K,7 6 6,stand,100000,"You won · dealer 19 · ₦193,000 back / High-roller tax −₦7,000 (7%)",193000,4760000,534019702,-15487100,148,win
+29,2026-11-11T00:33:21Z,3 3 4 J,8 7 4,hit x2,100000,"You won · dealer 19 · ₦193,000 back / High-roller tax −₦7,000 (7%)",193000,4853000,534019702,-15394100,149,win
+30,2026-11-11T00:33:43Z,8 Q,Q 5 8,stand,100000,"You won · dealer bust · ₦193,000 back / High-roller tax −₦7,000 (7%)",193000,4946000,534019702,-15301100,150,win
+31,2026-11-11T00:34:02Z,7 7 7,A 8,hit,100000,"You won · dealer 19 · ₦193,000 back / High-roller tax −₦7,000 (7%)",193000,5039000,534019702,-15208100,151,win
+32,2026-11-11T00:34:12Z,7 3 7,4 4 6 A J,double,200000,"You won · dealer bust · ₦386,000 back / High-roller tax −₦14,000 (7%)",386000,5225000,534019702,-15022100,152,win
+33,2026-11-11T00:34:31Z,9 3 A Q,K 6,hit x2,100000,The house wins · dealer 16 · ₦0 back,0,5125000,534019702,-15122100,153,bust
+34,2026-11-11T00:34:51Z,6 3 K,10 K,hit,100000,The house wins · dealer 20 · ₦0 back,0,5025000,534019702,-15222100,154,lose
+35,2026-11-11T00:35:07Z,7 2 A,10 6 5,hit,100000,The house wins · dealer 21 · ₦0 back,0,4925000,534019702,-15322100,155,lose
+36,2026-11-11T00:35:33Z,4 8 7,Q 6 K,hit,100000,"You won · dealer bust · ₦193,000 back / High-roller tax −₦7,000 (7%)",193000,5018000,534019702,-15229100,156,win
+37,2026-11-11T00:36:38Z,4 A 3 A,J K,hit x2,100000,The house wins · dealer 20 · ₦0 back,0,4918000,534019702,-15329100,157,lose
+38,2026-11-11T00:37:34Z,5 3 4 10,7 4,hit x2,100000,The house wins · dealer 11 · ₦0 back,0,4818000,534019702,-15429100,158,bust
+39,2026-11-11T00:37:50Z,6 K,2 5 J,stand,100000,The house wins · dealer 17 · ₦0 back,0,4718000,534019702,-15529100,159,lose
+40,2026-11-11T00:38:00Z,9 2 4,8 9,double,200000,The house wins · dealer 17 · ₦0 back,0,4518000,534019702,-15729100,160,lose
+41,2026-11-11T00:38:45Z,2 5 Q,Q K,hit,100000,The house wins · dealer 20 · ₦0 back,0,4418000,534019702,-15829100,161,lose
+42,2026-11-11T00:39:04Z,9 10,2 K K,stand,100000,"You won · dealer bust · ₦193,000 back / High-roller tax −₦7,000 (7%)",193000,4511000,534019702,-15736100,162,win
+43,2026-11-11T00:39:13Z,J 9,9 7 2,stand,100000,"You won · dealer 18 · ₦193,000 back / High-roller tax −₦7,000 (7%)",193000,4604000,534019702,-15643100,163,win
+44,2026-11-11T00:39:29Z,4 4 4 Q,10 5,hit x2,100000,The house wins · dealer 15 · ₦0 back,0,4504000,534019702,-15743100,164,bust
+45,2026-11-11T00:39:44Z,3 Q,5 7 8,stand,100000,The house wins · dealer 20 · ₦0 back,0,4404000,534019702,-15843100,165,lose
+46,2026-11-11T00:40:13Z,4 10 4,10 8,hit,100000,"A push · dealer 18 · ₦100,000 back",100000,4404000,534019702,-15843100,166,push
+47,2026-11-11T00:40:21Z,A 9,K 5 9,stand,100000,"You won · dealer bust · ₦193,000 back / High-roller tax −₦7,000 (7%)",193000,4497000,534019702,-15750100,167,win
+48,2026-11-11T00:40:39Z,5 3 9,K 2 7,hit,100000,The house wins · dealer 19 · ₦0 back,0,4397000,534019702,-15850100,168,lose
+49,2026-11-11T00:40:40Z,A 10,6 Q,stand,100000,"Blackjack! Paid 3 to 2 · ₦239,500 back / High-roller tax −₦10,500 (7%)",239500,4536500,534019702,-15710600,169,blackjack
+50,2026-11-11T00:40:53Z,Q 9,J 5 Q,stand,100000,"You won · dealer bust · ₦193,000 back / High-roller tax −₦7,000 (7%)",193000,4629500,534019702,-15617600,170,win
+51,2026-11-11T00:42:56Z,Q A,7 6,stand,100000,"Blackjack! Paid 3 to 2 · ₦239,500 back / High-roller tax −₦10,500 (7%)",239500,4769000,534019702,-15478100,171,blackjack
+52,2026-11-11T00:43:14Z,10 2 7,2 7 9,hit,100000,"You won · dealer 18 · ₦193,000 back / High-roller tax −₦7,000 (7%)",193000,4862000,534019702,-15385100,172,win
+53,2026-11-11T00:43:23Z,Q 8,10 Q,stand,100000,The house wins · dealer 20 · ₦0 back,0,4762000,534019702,-15485100,173,lose
+54,2026-11-11T00:43:30Z,7 4 8,2 Q 6,double,200000,"You won · dealer 18 · ₦386,000 back / High-roller tax −₦14,000 (7%)",386000,4948000,534019702,-15299100,174,win
+55,2026-11-11T00:43:39Z,2 J K,9 8,hit,100000,The house wins · dealer 17 · ₦0 back,0,4848000,534019702,-15399100,175,bust
+56,2026-11-11T00:44:02Z,A 3 J 3,9 6 5,hit x2,100000,The house wins · dealer 20 · ₦0 back,0,4748000,534019702,-15499100,176,lose
+57,2026-11-11T00:44:03Z,6 9,A 10,stand,100000,The dealer has blackjack · ₦0 back,0,4648000,534019702,-15599100,177,lose
+58,2026-11-11T00:44:19Z,7 10,4 2 3 Q,stand,100000,The house wins · dealer 19 · ₦0 back,0,4548000,534019702,-15699100,178,lose
+59,2026-11-11T00:44:21Z,Q A,K 5,stand,100000,"Blackjack! Paid 3 to 2 · ₦239,500 back / High-roller tax −₦10,500 (7%)",239500,4687500,534019702,-15559600,179,blackjack
+60,2026-11-11T00:44:35Z,4 8 K,7 6,hit,100000,The house wins · dealer 13 · ₦0 back,0,4587500,534019702,-15659600,180,bust
+61,2026-11-11T00:44:51Z,Q 6 A,8 2 8,hit,100000,The house wins · dealer 18 · ₦0 back,0,4487500,534019702,-15759600,181,lose
+62,2026-11-11T00:44:58Z,3 6 A,3 J 8,double,200000,The house wins · dealer 21 · ₦0 back,0,4287500,534019702,-15959600,182,lose
+63,2026-11-11T00:45:06Z,5 A 9,6 7 9,double,200000,"You won · dealer bust · ₦386,000 back / High-roller tax −₦14,000 (7%)",386000,4473500,534019702,-15773600,183,win
+64,2026-11-11T00:45:19Z,2 4 10,4 6 K,hit,100000,The house wins · dealer 20 · ₦0 back,0,4373500,534019702,-15873600,184,lose
+65,2026-11-11T00:45:48Z,8 6 | 8 K,5 K Q,"split, stand, split, stand",200000,"You won · dealer bust · ₦386,000 back / High-roller tax −₦14,000 (7%)",386000,4559500,534019702,-15687600,185,win | win (split)
+66,2026-11-11T00:46:11Z,5 8 9,A 3,hit,100000,The house wins · dealer 14 · ₦0 back,0,4459500,534019702,-15787600,186,bust
+67,2026-11-11T00:46:15Z,A Q,6 3,stand,100000,"Blackjack! Paid 3 to 2 · ₦239,500 back / High-roller tax −₦10,500 (7%)",239500,4599000,534019702,-15648100,187,blackjack
+68,2026-11-11T00:46:25Z,Q 5,2 6 7 A 3,stand,100000,The house wins · dealer 19 · ₦0 back,0,4499000,534019702,-15748100,188,lose
+69,2026-11-11T00:46:35Z,K Q,J J,stand,100000,"A push · dealer 20 · ₦100,000 back",100000,4499000,534019702,-15748100,189,push
+70,2026-11-11T00:46:42Z,8 Q,4 3 2 2 8,stand,100000,The house wins · dealer 19 · ₦0 back,0,4399000,534019702,-15848100,190,lose
+71,2026-11-11T00:46:49Z,10 K,5 J Q,stand,100000,"You won · dealer bust · ₦193,000 back / High-roller tax −₦7,000 (7%)",193000,4492000,534019702,-15755100,191,win
+72,2026-11-11T00:46:58Z,J J,10 5 8,stand,100000,"You won · dealer bust · ₦193,000 back / High-roller tax −₦7,000 (7%)",193000,4585000,534019702,-15662100,192,win
+73,2026-11-11T00:47:21Z,J 6,K 3 6,stand,100000,The house wins · dealer 19 · ₦0 back,0,4485000,534019702,-15762100,193,lose
+74,2026-11-11T00:47:38Z,2 3 8,5 10 6,hit,100000,The house wins · dealer 21 · ₦0 back,0,4385000,534019702,-15862100,194,lose
+75,2026-11-11T00:47:46Z,Q 8,A K,stand,100000,The dealer has blackjack · ₦0 back,0,4285000,534019702,-15962100,195,lose
+76,2026-11-11T00:47:53Z,J 9,A J,stand,100000,The dealer has blackjack · ₦0 back,0,4185000,534019702,-16062100,196,lose
+77,2026-11-11T00:48:04Z,9 8,8 J,stand,100000,The house wins · dealer 18 · ₦0 back,0,4085000,534019702,-16162100,197,lose
+78,2026-11-11T00:48:20Z,A 8,Q 9,stand,100000,"A push · dealer 19 · ₦100,000 back",100000,4085000,534019702,-16162100,198,push
+79,2026-11-11T00:48:29Z,5 9 Q,9 8,hit,100000,The house wins · dealer 17 · ₦0 back,0,3985000,534019702,-16262100,199,bust
+80,2026-11-11T00:48:38Z,7 4 2,4 7 5 5,double,200000,The house wins · dealer 21 · ₦0 back,0,3785000,534019702,-16462100,200,lose
+81,2026-11-11T00:48:50Z,9 J,10 K,stand,100000,The house wins · dealer 20 · ₦0 back,0,3685000,534019702,-16562100,201,lose
+82,2026-11-11T00:49:09Z,Q 9,8 7 K,stand,100000,"You won · dealer bust · ₦193,000 back / High-roller tax −₦7,000 (7%)",193000,3778000,534019702,-16469100,202,win
+83,2026-11-11T00:49:43Z,Q 2 8,Q 4 8,hit,100000,"You won · dealer bust · ₦193,000 back / High-roller tax −₦7,000 (7%)",193000,3871000,534019702,-16376100,203,win
+84,2026-11-11T00:50:06Z,8 9 | 8 10,8 9,"split, stand, split, stand",200000,"You won · dealer 17 · ₦293,000 back / High-roller tax −₦7,000 (7%)",293000,3964000,534019702,-16283100,204,push | win (split)
+85,2026-11-11T00:50:16Z,K K,9 7 10,stand,100000,"You won · dealer bust · ₦193,000 back / High-roller tax −₦7,000 (7%)",193000,4057000,534019702,-16190100,205,win
+86,2026-11-11T00:50:23Z,8 7 J,8 A,hit,100000,The house wins · dealer 19 · ₦0 back,0,3957000,534019702,-16290100,206,bust
+87,2026-11-11T00:50:36Z,9 A,J 10,stand,100000,"A push · dealer 20 · ₦100,000 back",100000,3957000,534019702,-16290100,207,push
+88,2026-11-11T00:51:07Z,A 4 4,8 2 Q,hit,100000,The house wins · dealer 20 · ₦0 back,0,3857000,534019702,-16390100,208,lose
+89,2026-11-11T00:51:24Z,J J,2 10 2 3,stand,100000,"You won · dealer 17 · ₦193,000 back / High-roller tax −₦7,000 (7%)",193000,3950000,534019702,-16297100,209,win
+90,2026-11-11T00:51:34Z,9 3,5 Q 10,stand,100000,"You won · dealer bust · ₦193,000 back / High-roller tax −₦7,000 (7%)",193000,4043000,534019702,-16204100,210,win
+91,2026-11-11T00:51:46Z,K J,J 9,stand,100000,"You won · dealer 19 · ₦193,000 back / High-roller tax −₦7,000 (7%)",193000,4136000,534019702,-16111100,211,win
+92,2026-11-11T00:51:53Z,9 6 Q,K 10,hit,100000,The house wins · dealer 20 · ₦0 back,0,4036000,534019702,-16211100,212,bust
+93,2026-11-11T00:52:01Z,6 7,6 8 9,stand,100000,"You won · dealer bust · ₦193,000 back / High-roller tax −₦7,000 (7%)",193000,4129000,534019702,-16118100,213,win
+94,2026-11-11T00:52:10Z,J 10,5 9 J,stand,100000,"You won · dealer bust · ₦193,000 back / High-roller tax −₦7,000 (7%)",193000,4222000,534019702,-16025100,214,win
+95,2026-11-11T00:58:54Z,9 Q,8 A,stand,100000,"A push · dealer 19 · ₦100,000 back",100000,4222000,534019702,-16025100,215,push
+96,2026-11-11T00:59:03Z,2 Q,5 2 7 8,stand,100000,"You won · dealer bust · ₦193,000 back / High-roller tax −₦7,000 (7%)",193000,4315000,534019702,-15932100,216,win
+97,2026-11-11T00:59:25Z,6 3 7,10 10,hit,100000,The house wins · dealer 20 · ₦0 back,0,4215000,534019702,-16032100,217,lose
+98,2026-11-11T00:59:41Z,2 K 5,9 3 6,hit,100000,The house wins · dealer 18 · ₦0 back,0,4115000,534019702,-16132100,218,lose
+99,2026-11-11T00:59:48Z,K K,2 K Q,stand,100000,"You won · dealer bust · ₦193,000 back / High-roller tax −₦7,000 (7%)",193000,4208000,534019702,-16039100,219,win
+100,2026-11-11T00:59:56Z,9 K,9 6 5,stand,100000,The house wins · dealer 20 · ₦0 back,0,4108000,534019702,-16139100,220,lose
